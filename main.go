@@ -323,6 +323,7 @@ func getThirdDegreeRelation(personOne, personTwo string) {
 		}
 	}
 }
+//
 
 /*contains checks whether the given string is already present in the slice
 Gets string slice as input
